@@ -5,7 +5,7 @@ This repository contains the code and the data used for the experiments in the p
 Background Knowledge with AI Hilbert](https://arxiv.org/abs/2308.09474).
 
 
-AI Hilbert is an algebraic geometric based discovery system (based on Hilbert's NullStellensatz result), that enables the discovery of fundamental laws of nature (or non-physical systems) based on knowledge (articulated in formal logic terms) and experimental data.
+AI Hilbert is an algebraic geometric based discovery system (based on Putinar's Positivstellensatz), that enables the discovery of fundamental laws of nature (or non-physical systems) based on knowledge (articulated in formal logic terms) and experimental data.
 
 **Visit our website** for a general overview, references, and some introductory videos: &rarr; [AI-Hilbert website](https://ai-hilbert.github.io) &larr;
 
