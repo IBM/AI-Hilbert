@@ -14,7 +14,7 @@ AI Hilbert is an algebraic geometric based discovery system (based on Putinar's 
 
 ## Code
 
-The code is organized in 2 folders. One containing the problems studied in the main paper and one containing the problems studied in the paper appendix.
+The code is organized in 3 folders. One containing the problems studied in the main paper, one containing the problems studied in the paper appendix and one for data generation.
 
 The folder `main_problems` contains:
 * A notebook for the **Hagen-Poissuille Equation**, **Einstein’s Relativistic Time Dilation Law** and **Kepler’s Third Law of Planetary Motion**: [hagen_einstein_kepler[3.3][3.5][3.6].ipynb](main_problems/hagen_einstein_kepler[3.3][3.5][3.6].ipynb)
@@ -40,6 +40,17 @@ The folder `suppl_material_problems` contains a notebook for each of the followi
   * **Hall Effect**: [hall.ipynb](suppl_material_problems/hall.ipynb)
   * **Compton Scattering**: [compton.ipynb](suppl_material_problems/compton.ipynb)
 
+The folder `data_generation` contains:
+* A python file for generating the data for the Kepler problem [data_gen_kepler.py](data_generation/data_gen_kepler.py)
+* A python file [data_gen_mix.py](data_generation/data_gen_mix.py) for generating the data for the following problems:
+  *  Inelastic Relativistic Collision
+  *  Decay of Pion into Muon and Neutrino
+  *  Radiation Damping and Light Scattering
+  *  Escape Velocity
+  *  Hall Effect
+  *  Compton Scattering
+  *  Radiation Gravitational Wave Power
+  *  Hagen Poiseuille equation
 
 ## How to cite
 
