@@ -25,7 +25,7 @@ The folder `main_problems` contains:
 * A notebook for the **Bell Inequalities**: [bell_inequalities[3.8].ipynb](main_problems/bell_inequalities[3.8].ipynb)
 
 The folder `suppl_material_problems` contains a notebook for each of the following problems:
-* 6 problems from [FSRD](https://space.mit.edu/home/tegmark/aifeynman.html):
+* 6 problems from [FSRD](https://space.mit.edu/home/tegmark/aifeynman.html) (Feynman Symbolic Regression Database based on "The Feynman Lectures on Physics"):
   * **I.15.10 FSRD**: [I_15_10.ipynb](suppl_material_problems/I_15_10.ipynb)
   * **I.27.6 FSRD**: [I_27_6.ipynb](suppl_material_problems/I_15_10.ipynb)
   * **I.34.8 FSRD**: [I_34_8.ipynb](suppl_material_problems/I_15_10.ipynb)
