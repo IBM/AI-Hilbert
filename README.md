@@ -1,3 +1,5 @@
+[![GitHub tag](https://img.shields.io/github/tag/IBM/AI-Hilbert.svg)](https://GitHub.com/IBM/AI-Hilbert/tags/)
+[![DOI](https://zenodo.org/badge/791611893.svg)](https://zenodo.org/badge/latestdoi/791611893)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # AI-Hilbert
