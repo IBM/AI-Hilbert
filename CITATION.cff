@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Ryan"
+  given-names: "Cory-Wright"
+- family-names: "Cristina"
+  given-names: "Cornelio"
+- family-names: "Sanjeeb"
+  given-names: "Dash"
+- family-names: "Bachir"
+  given-names: "El Khadir"
+- family-names: "Lior"
+  given-names: "Horesh"
+title: "[AI-Hilbert GitHub Repository], Evolving Scientific Discovery by Unifying Data and Background Knowledge with AI Hilbert"
+version: 1.0.1
+doi: 10.5281/zenodo.11453179
+date-released: 2024-6-3
+url: "https://github.com/IBM/AI-Hilbert"
