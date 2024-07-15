@@ -4,7 +4,7 @@
 
 # AI-Hilbert
 This repository contains the code and the data used for the experiments in the paper [Evolving Scientific Discovery by Unifying Data and
-Background Knowledge with AI Hilbert](https://arxiv.org/abs/2308.09474).
+Background Knowledge with AI Hilbert](https://nature.com/articles/s41467-024-50074-w) published in Nature Communications.
 
 
 AI Hilbert is an algebraic geometric based discovery system (based on Putinar's Positivstellensatz), that enables the discovery of fundamental laws of nature (or non-physical systems) based on knowledge (articulated in formal logic terms) and experimental data.
@@ -57,12 +57,15 @@ The folder `data_generation` contains:
 ## How to cite
 
 ```
-@misc{AI_Hilbert_2024,
-      title={Evolving Scientific Discovery by Unifying Data and Background Knowledge with AI Hilbert}, 
-      author={Ryan Cory-Wright and Cristina Cornelio and Sanjeeb Dash and Bachir El Khadir and Lior Horesh},
-      year={2024},
-      eprint={2308.09474},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI}
+@article{AI_Hilbert,
+    title={Evolving scientific discovery by unifying data and background knowledge with AI Hilbert}, 
+    author={Ryan Cory-Wright and Cristina Cornelio and Sanjeeb Dash and Bachir El Khadir and Lior Horesh},
+	   volume = {15},
+	   url = {https://doi.org/10.1038/s41467-024-50074-w},
+	   doi = {10.1038/s41467-024-50074-w},
+	   journal = {Nature Communications},
+	   month = jul,
+	   year = {2024},
+	   pages = {5922},
 }
 ```
